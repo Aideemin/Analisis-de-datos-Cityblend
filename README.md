@@ -1,6 +1,7 @@
 # Análisis de datos Cityblend
 Se realizó un práctica de análisis de datos utilizando excel 
 
+## Resultados
 
 + **Tendencia de ingresos mensuales:**
 
